@@ -5,4 +5,4 @@ This is my first real programming project, that was realized from January to May
 
 ## Release
 
-A release is available, featuring two player and single player mode, along with basic game functionalities (rules, end game point management system ...)
+A [release](https://github.com/nicolascouvrat/minigo-game/releases) is available, featuring two player and single player mode, along with basic game functionalities (rules, end game point management system ...)
